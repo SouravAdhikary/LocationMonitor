@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ForegroundService</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="group_pemission_pre_msg">You need to grant access to </string>
+    <string name="cannot_proceed_permission_msg">You cannot proceed further without allowing initially permissions.</string>
+    <string name="permission_dialog_button_ok">Ok</string>
+    <string name="permission_dialog_button_cancel">Cancel</string>
+
+    <!-- Pemission TAG -->
+    <string name="tag_read_contact">Read Contacts</string>
+    <string name="tag_record_audio">Audio Record</string>
+    <string name="tag_access_fine_location">Fine Location</string>
+    <string name="tag_access_coarse_location">Approx Location</string>
+    <string name="tag_write_external_storage">Write Information</string>
+    <string name="tag_camera">camera</string>
+
+    <!-- Permission dialog msg -->
+    <string name="read_contacts">Read contact permission is needed. Please allow in App Settings for additional functionality.</string>
+    <string name="record_audio">Microphone permission is needed. Please allow in App Settings for additional functionality.</string>
+    <string name="access_fine_location">Location permission is needed. Please allow in App Settings for additional functionality.</string>
+    <string name="access_coarse_location">Approx location permission is needed. Please allow in App Settings for additional functionality.</string>
+    <string name="write_external_storage">Access to external storage permission is needed. Please allow in App Settings for additional functionality.</string>
+    <string name="camera">Camera permission is needed. Please allow in App Settings for additional functionality.</string>
+</resources>
